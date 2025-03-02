@@ -1,0 +1,14 @@
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\bin\Debug\net8.0\ExerciosDoModulo1.exe
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\bin\Debug\net8.0\ExerciosDoModulo1.deps.json
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\bin\Debug\net8.0\ExerciosDoModulo1.runtimeconfig.json
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\bin\Debug\net8.0\ExerciosDoModulo1.dll
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\bin\Debug\net8.0\ExerciosDoModulo1.pdb
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\obj\Debug\net8.0\ExerciosDoModulo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\obj\Debug\net8.0\ExerciosDoModulo1.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\obj\Debug\net8.0\ExerciosDoModulo1.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\obj\Debug\net8.0\ExerciosDoModulo1.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\obj\Debug\net8.0\ExerciosDoModulo1.dll
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\obj\Debug\net8.0\refint\ExerciosDoModulo1.dll
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\obj\Debug\net8.0\ExerciosDoModulo1.pdb
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\obj\Debug\net8.0\ExerciosDoModulo1.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\ExerciosDoModulo1\ExerciosDoModulo1\obj\Debug\net8.0\ref\ExerciosDoModulo1.dll
